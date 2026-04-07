@@ -1,0 +1,5 @@
+{
+  "name": "Lumina Assistant",
+  "description": "A high-performance personal assistant and expense tracker with a glassmorphic bento-box dashboard.",
+  "requestFramePermissions": ["geolocation"]
+}
